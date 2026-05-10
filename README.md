@@ -14,10 +14,10 @@ A collection of beginner-friendly Python mini programs created to improve proble
 - Python
 
 ## Purpose
-To practice Python concepts through small hands-on projects.
+-To practice Python concepts through small hands-on projects.
 
 ### 1. Python Calculator
-A simple command-line calculator application built using Python
+-A simple command-line calculator application built using Python
 
 ### 2. Number Guessing Game
-A fun Python game where the user tries to guess a randomly generated number between 1 and 100.
+-A fun Python game where the user tries to guess a randomly generated number between 1 and 100.
