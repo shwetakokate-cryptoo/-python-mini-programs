@@ -10,6 +10,7 @@ A simple command-line calculator application built using Python.
 - Input validation
 - Loop-based menu system
 
+
 ## Technologies Used
 - Python
 
@@ -30,7 +31,6 @@ To practice Python functions, conditions, loops, and modular programming.
 
 # --------------------------------------------
 # Function Definitions
-# --------------------------------------------
 
 # Addition Function
 def add(a, b):
