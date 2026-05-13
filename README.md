@@ -21,3 +21,6 @@ A collection of beginner-friendly Python mini programs created to improve proble
 
 ### 2. Number Guessing Game
 -A fun Python game where the user tries to guess a randomly generated number between 1 and 100.
+
+### 3. Password Generator
+A Python program that generates secure random passwords using letters, numbers, and special characters.
