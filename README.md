@@ -1,5 +1,6 @@
 # Python Mini Programs
 
+
 A collection of beginner-friendly Python mini programs created to improve problem-solving and programming skills.
 
 ## Programs Included
