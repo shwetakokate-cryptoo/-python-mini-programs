@@ -1,6 +1,5 @@
 # Password Generator in Python
 
-
 # This program generates a random secure password
 # based on the user-defined password length.
 
