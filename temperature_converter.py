@@ -1,5 +1,4 @@
 # Temperature Converter in Python
-# ==========================================
 
 # This program converts temperature values
 # between Celsius, Fahrenheit, and Kelvin.
