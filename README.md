@@ -25,3 +25,6 @@ A collection of beginner-friendly Python mini programs created to improve proble
 
 ### 3. Password Generator
 A Python program that generates secure random passwords using letters, numbers, and special characters.
+
+### 4. Simple Quiz Game
+A Python quiz application with multiple-choice questions, score tracking, and performance evaluation.
